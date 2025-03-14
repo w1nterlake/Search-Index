@@ -1,0 +1,12 @@
+{
+    "config": {
+        "name": "SkillboxSearchEngine",
+        "version": 1,
+        "max_responses": 5
+    },
+    "files": [
+        "documents/file001.txt",
+        "documents/file002.txt"
+    ]
+}
+    
